@@ -1,0 +1,22 @@
+{
+    "name": "mangano-ito/itertools-php",
+    "description": "itertools implementation for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mangano Ito",
+            "email": "47137677+mangano-ito@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Itertools\\": "src/"
+      }
+    },
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
