@@ -12,7 +12,10 @@
     "autoload": {
       "psr-4": {
         "Itertools\\": "src/"
-      }
+      },
+      "files": [
+        "src/chunked.php"
+      ]
     },
     "require": {
     },
